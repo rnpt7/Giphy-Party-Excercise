@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #100c0c;
+  text-align: center;
+  color: #e5e5e5;
+  font-family: sans-serif;
+}
+
+input {
+  border-radius: 4px;
+  width: auto;
+  height: 30px;
+}
+
+button {
+  border-radius: 4px;
+  background-color: #3b3a3a;
+  color: white;
+  height: 35px;
+}
+
+#gif {
+  border: 7px solid #1f1c1c;
+  border-radius: 4px;
+  margin: 5px;
+}
